@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Gün Planı",
+      "hasCanvas": false,
+      "bodyTextLen": 77,
+      "bodyTextHash": "32a6ee230f44648c9065fc29c034e05846694cba890b350f77ff587bc256cf23",
+      "bodyTextPrefix": "GÜN PLANI Cumartesi 5 Eylül EN Günlük ilerleme 0/0 Bugün Yaklaşa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Gün Planı",
+      "hasCanvas": false,
+      "bodyTextLen": 77,
+      "bodyTextHash": "32a6ee230f44648c9065fc29c034e05846694cba890b350f77ff587bc256cf23",
+      "bodyTextPrefix": "GÜN PLANI Cumartesi 5 Eylül EN Günlük ilerleme 0/0 Bugün Yaklaşa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Gün Planı",
+      "hasCanvas": false,
+      "bodyTextLen": 135,
+      "bodyTextHash": "815d24553d47a16f4b8b6705f5678df2ba146ad4cf5c04eb5b22fc768b538fc6",
+      "bodyTextPrefix": "DAY PLAN Saturday 5 September TR Daily progress 0/0 Today Upcomi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Gün Planı",
+      "hasCanvas": false,
+      "bodyTextLen": 135,
+      "bodyTextHash": "815d24553d47a16f4b8b6705f5678df2ba146ad4cf5c04eb5b22fc768b538fc6",
+      "bodyTextPrefix": "DAY PLAN Saturday 5 September TR Daily progress 0/0 Today Upcomi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (77 -> 135 chars, hash mismatch)",
+    "mobile: body text changed (77 -> 135 chars, hash mismatch)"
+  ]
+}
